@@ -1,309 +1,309 @@
 {
-  "format": 1,
-  "mods": [
-    {
-      "folder": "MK001-dice-roller",
-      "file": "MK001-dice-roller.capri-code",
-      "name": "MK001 Dice Roller",
-      "kind": "code",
-      "author": "Mirit0",
-      "about": "Roll animated 3D tabletop dice or flip a coin with Capri. Supports D4, D6, D8, D10, D12, D20 and D100 (two percentile dice), with numbered faces, cyberpunk visuals and playful commentary based on the result."
-    },
-    {
-      "folder": "btd6-strategy",
-      "file": "btd6-strategy.capri-skill",
-      "name": "BTD6 strategy",
-      "kind": "skill",
-      "author": "Lachy",
-      "about": "Lachy's tower picks and round-by-round plan for Bloons TD 6, from the first round to round 80. Capri follows it whenever she plays BTD6."
-    },
-    {
-      "folder": "cat-ears",
-      "file": "cat-ears.capri-skin",
-      "name": "Cat Ears",
-      "kind": "skin",
-      "author": "Issei",
-      "about": "Pointed black cat ears on her head."
-    },
-    {
-      "folder": "colors-bubblegum",
-      "file": "colors-bubblegum.capri-mod",
-      "name": "Colors: Bubblegum",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "A Bubblegum colour set for her: pink hair, cyan accents, violet eyes, white edges and a plum body. Works with skins too."
-    },
-    {
-      "folder": "colors-cyber-cyan",
-      "file": "colors-cyber-cyan.capri-mod",
-      "name": "Colors: Cyber Cyan",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "A Cyber Cyan colour set for her: cyan hair, magenta accents, yellow eyes and violet edges. Her body keeps its usual colour. Works with skins too."
-    },
-    {
-      "folder": "colors-royal",
-      "file": "colors-royal.capri-mod",
-      "name": "Colors: Royal",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "A Royal colour set for her: purple hair, gold accents, sky-blue eyes, pink edges and a midnight body. Works with skins too."
-    },
-    {
-      "folder": "colors-toxic",
-      "file": "colors-toxic.capri-mod",
-      "name": "Colors: Toxic",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "A Toxic colour set for her: acid-green hair, red accents, cyan eyes, green edges and a deep green body. Works with skins too."
-    },
-    {
-      "folder": "crt-terminal",
-      "file": "crt-terminal.capri-skin",
-      "name": "CRT Terminal",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri on an old green-phosphor monitor: scanlines and glow, code rain falling through her hair, a refresh band rolling down her and a block cursor blinking on her chest. Her glitches turn amber, like the tube losing sync."
-    },
-    {
-      "folder": "custom-names",
-      "file": "custom-names.capri-mod",
-      "name": "Custom Names",
-      "kind": "settings",
-      "author": "Vocyn",
-      "about": "Capri answers to more names: Nova, Big Z and Capricorn. She still answers to Capri too."
-    },
-    {
-      "folder": "dice-decider",
-      "file": "dice-decider.capri-code",
-      "name": "Dice & Decider",
-      "kind": "code",
-      "author": "Issei",
-      "about": "Fair dice, coin flips, random numbers and picks."
-    },
-    {
-      "folder": "frutiger-aero",
-      "file": "frutiger-aero.capri-skin",
-      "name": "Frutiger Aero",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri in the glossy mid-2000s look of Windows Vista and 7, all inside her own outline: water-glass blue hair full of rising bubbles, orange gel panels, gel-gloss shards, black-glass limbs and twinkling lens flares."
-    },
-    {
-      "folder": "galaxy",
-      "file": "galaxy.capri-skin",
-      "name": "Galaxy",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Deep space inside Capri: nebula hair full of twinkling and shooting stars, a starfield body with a galactic band, ringed planets and moons for panels, a cosmic edge glow and a star for an eye."
-    },
-    {
-      "folder": "galaxy-hair-aurora",
-      "file": "galaxy-hair-aurora.capri-skin",
-      "name": "Galaxy Hair: Aurora",
-      "kind": "skin",
-      "author": "Issei",
-      "about": "Her hair as a galaxy: deep space with teal and green clouds."
-    },
-    {
-      "folder": "galaxy-hair-ember",
-      "file": "galaxy-hair-ember.capri-skin",
-      "name": "Galaxy Hair: Ember",
-      "kind": "skin",
-      "author": "Issei",
-      "about": "Her hair as a galaxy: her red melting into plum and deep space."
-    },
-    {
-      "folder": "galaxy-hair-nebula",
-      "file": "galaxy-hair-nebula.capri-skin",
-      "name": "Galaxy Hair: Nebula",
-      "kind": "skin",
-      "author": "Issei",
-      "about": "Her hair as a galaxy: deep space with violet and pink clouds."
-    },
-    {
-      "folder": "hair-down",
-      "file": "hair-down.capri-skin",
-      "name": "Hair Down",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri with her hair let down: one sleek hot-pink sheet with a neon glow, falling down her back to a hooked point, with a thin strand in front of her face."
-    },
-    {
-      "folder": "halo",
-      "file": "halo.capri-skin",
-      "name": "Halo",
-      "kind": "skin",
-      "author": "Issei",
-      "about": "A jagged white halo floating just above her head."
-    },
-    {
-      "folder": "hearing-log",
-      "file": "hearing-log.capri-mod",
-      "name": "Hearing Log",
-      "kind": "settings",
-      "author": "Vocyn",
-      "about": "While it's on, she keeps a list on your PC of what her ears heard and whether it counted as talking to her. Handy when she isn't answering to her name. Removing the mod deletes the list."
-    },
-    {
-      "folder": "hello-code",
-      "file": "hello-code.capri-code",
-      "name": "Hello Code",
-      "kind": "code",
-      "author": "Vocyn",
-      "about": "A tiny code mod to learn from. Say \"mod check\" and she answers and counts how many times you've asked."
-    },
-    {
-      "folder": "kintsugi-porcelain",
-      "file": "kintsugi-porcelain.capri-skin",
-      "name": "Kintsugi Porcelain",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri as blue-and-white porcelain mended with gold: cobalt vines on white glaze, celadon panels, black lacquer limbs, a gold-leaf face and kintsugi seams with a glint running along them."
-    },
-    {
-      "folder": "kitchen-sponge",
-      "file": "kitchen-sponge.capri-skin",
-      "name": "Kitchen Sponge",
-      "kind": "skin",
-      "author": "Potato",
-      "about": "A skin for Capri: she's made of a kitchen sponge."
-    },
-    {
-      "folder": "kyoto-rain",
-      "file": "kyoto-rain.capri-skin",
-      "name": "Kyoto Rain",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri as a rainy night in an old Japanese street: storm-sky hair with rain slanting through it and drops falling off its tips, wave-print indigo, glowing paper-lantern panels, wet stone limbs full of reflected lights, and traffic-light eyes."
-    },
-    {
-      "folder": "lava-lamp",
-      "file": "lava-lamp.capri-skin",
-      "name": "Lava Lamp",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri as a 70s lava lamp: violet glass with glowing wax blobs rising, merging and pinching apart inside her, a warm glow from below, glowing wax panels and a brushed chrome base."
-    },
-    {
-      "folder": "maid-suit",
-      "file": "maid-suit.capri-skin",
-      "name": "Maid Suit",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "A skin for Capri: a maid suit, for you weirdos."
-    },
-    {
-      "folder": "nicknames",
-      "file": "nicknames.capri-code",
-      "name": "Nicknames",
-      "kind": "code",
-      "author": "Vocyn",
-      "about": "Give Capri new names just by asking, out loud or in chat. She answers to them straight away and remembers them."
-    },
-    {
-      "folder": "prism-overdrive",
-      "file": "prism-overdrive.capri-skin",
-      "name": "Prism Overdrive",
-      "kind": "skin",
-      "author": "Potato",
-      "about": "A skin for Capri with every effect, on every frame she has."
-    },
-    {
-      "folder": "rei-plugsuit",
-      "file": "rei-plugsuit.capri-skin",
-      "name": "Rei Plugsuit",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri in a white plugsuit inspired by Rei Ayanami: pale blue hair, two white interface clips on her head, a red chest core, shoulder pylons with orange tops, navy limbs, green plates, black leg bands and red eyes."
-    },
-    {
-      "folder": "santa-hat-black",
-      "file": "santa-hat-black.capri-skin",
-      "name": "Santa Hat: Black",
-      "kind": "skin",
-      "author": "Issei",
-      "about": "A sharp black Santa hat for her, in every pose."
-    },
-    {
-      "folder": "santa-hat-crimson",
-      "file": "santa-hat-crimson.capri-skin",
-      "name": "Santa Hat: Crimson",
-      "kind": "skin",
-      "author": "Issei",
-      "about": "A sharp crimson Santa hat for her, in every pose."
-    },
-    {
-      "folder": "sharper-ears",
-      "file": "sharper-ears.capri-mod",
-      "name": "Sharper Ears",
-      "kind": "settings",
-      "author": "Vocyn",
-      "about": "She answers to words that sound like her name, not only exact spellings, like Caprice, Capris or Cah Pree."
-    },
-    {
-      "folder": "sleep-timer",
-      "file": "sleep-timer.capri-code",
-      "name": "Sleep Timer",
-      "kind": "code",
-      "author": "Issei",
-      "about": "Puts your PC to sleep or shuts it down later, with a warning first."
-    },
-    {
-      "folder": "stained-glass",
-      "file": "stained-glass.capri-skin",
-      "name": "Stained Glass",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri as a cathedral window: sapphire and violet glass hair, a ruby and amber body and emerald panels, all leaded into panes, a painted glass face, and a sunbeam sweeping through her with glints on the lead."
-    },
-    {
-      "folder": "startup-intros",
-      "file": "startup-intros.capri-code",
-      "name": "Startup Intros",
-      "kind": "code",
-      "author": "Vocyn",
-      "about": "Three start-up animations: Hijack, Shatter and Wake. She shuffles them each time she starts, or you pick one."
-    },
-    {
-      "folder": "tell-claude",
-      "file": "tell-claude.capri-code",
-      "name": "Tell Claude",
-      "kind": "code",
-      "author": "Potato",
-      "about": "Say \"tell Claude to ...\" and Claude Code does the job, then Capri tells you the answer."
-    },
-    {
-      "folder": "touch-grass",
-      "file": "touch-grass.capri-code",
-      "name": "Touch Grass",
-      "kind": "code",
-      "author": "Issei",
-      "about": "Counts your gaming time and roasts you when it's time for a break."
-    },
-    {
-      "folder": "vaporwave",
-      "file": "vaporwave.capri-skin",
-      "name": "Vaporwave",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri in 2010s vaporwave: sunset hair with a striped retro sun and a swaying palm, a neon grid rolling down her legs, pastel marble, aqua tiles, VHS scanlines, tracking wobble and colour bleed."
-    },
-    {
-      "folder": "voice-trivia",
-      "file": "voice-trivia.capri-code",
-      "name": "Voice Trivia",
-      "kind": "code",
-      "author": "Issei",
-      "about": "Multiple-choice trivia out loud, with scores."
-    },
-    {
-      "folder": "y2k-chrome",
-      "file": "y2k-chrome.capri-skin",
-      "name": "Y2K Chrome",
-      "kind": "skin",
-      "author": "Vocyn",
-      "about": "Capri in turn-of-the-millennium chrome: liquid-mirror hair reflecting a sky, horizon and shiny floor that drift as she moves, rainbow holographic foil panels, glossy black limbs, an LCD face and twinkling lens stars."
-    }
-  ]
+    "format":  1,
+    "mods":  [
+                 {
+                     "folder":  "MK001-dice-roller",
+                     "file":  "MK001-dice-roller.capri-code",
+                     "name":  "MK001 Dice Roller",
+                     "kind":  "code",
+                     "author":  "Mirit0",
+                     "about":  "Lance des dés 3D animés ou une pièce avec Capri. Gère les D4, D6, D8, D10, D12, D20 et D100 (deux dés de pourcentage), avec des faces numérotées, un style cyberpunk et des commentaires selon le résultat."
+                 },
+                 {
+                     "folder":  "btd6-strategy",
+                     "file":  "btd6-strategy.capri-skill",
+                     "name":  "BTD6 strategy",
+                     "kind":  "skill",
+                     "author":  "Lachy",
+                     "about":  "Les choix de tours et le plan manche par manche de Lachy pour Bloons TD 6, de la première manche à la manche 80. Capri le suit quand elle joue à BTD6."
+                 },
+                 {
+                     "folder":  "cat-ears",
+                     "file":  "cat-ears.capri-skin",
+                     "name":  "Cat Ears",
+                     "kind":  "skin",
+                     "author":  "Issei",
+                     "about":  "Des oreilles de chat noires et pointues sur sa tête."
+                 },
+                 {
+                     "folder":  "colors-bubblegum",
+                     "file":  "colors-bubblegum.capri-mod",
+                     "name":  "Colors: Bubblegum",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Une palette Bubblegum : cheveux roses, accents cyan, yeux violets, contours blancs et corps prune. Fonctionne aussi avec les apparences."
+                 },
+                 {
+                     "folder":  "colors-cyber-cyan",
+                     "file":  "colors-cyber-cyan.capri-mod",
+                     "name":  "Colors: Cyber Cyan",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Une palette Cyber Cyan : cheveux cyan, accents magenta, yeux jaunes et contours violets. Son corps garde sa couleur habituelle. Fonctionne aussi avec les apparences."
+                 },
+                 {
+                     "folder":  "colors-royal",
+                     "file":  "colors-royal.capri-mod",
+                     "name":  "Colors: Royal",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Une palette Royale : cheveux violets, accents dorés, yeux bleu ciel, contours roses et corps bleu nuit. Fonctionne aussi avec les apparences."
+                 },
+                 {
+                     "folder":  "colors-toxic",
+                     "file":  "colors-toxic.capri-mod",
+                     "name":  "Colors: Toxic",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Une palette Toxique : cheveux vert acide, accents rouges, yeux cyan, contours verts et corps vert profond. Fonctionne aussi avec les apparences."
+                 },
+                 {
+                     "folder":  "crt-terminal",
+                     "file":  "crt-terminal.capri-skin",
+                     "name":  "CRT Terminal",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri sur un vieil écran à phosphore vert : lignes de balayage, lueur, pluie de code dans ses cheveux, bande de rafraîchissement et curseur clignotant sur sa poitrine. Ses glitchs passent à l\u0027ambre."
+                 },
+                 {
+                     "folder":  "custom-names",
+                     "file":  "custom-names.capri-mod",
+                     "name":  "Custom Names",
+                     "kind":  "settings",
+                     "author":  "Vocyn",
+                     "about":  "Capri répond à d\u0027autres noms : Nova, Big Z et Capricorn. Elle répond toujours à Capri aussi."
+                 },
+                 {
+                     "folder":  "dice-decider",
+                     "file":  "dice-decider.capri-code",
+                     "name":  "Dice \u0026 Decider",
+                     "kind":  "code",
+                     "author":  "Issei",
+                     "about":  "Des dés équitables, des pile ou face, des nombres et des choix au hasard."
+                 },
+                 {
+                     "folder":  "frutiger-aero",
+                     "file":  "frutiger-aero.capri-skin",
+                     "name":  "Frutiger Aero",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri dans le style brillant de Windows Vista et 7 : cheveux bleu verre d\u0027eau pleins de bulles, panneaux en gel orange, éclats brillants, membres en verre noir et reflets scintillants."
+                 },
+                 {
+                     "folder":  "galaxy",
+                     "file":  "galaxy.capri-skin",
+                     "name":  "Galaxy",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "L\u0027espace à l\u0027intérieur de Capri : cheveux en nébuleuse avec étoiles scintillantes et filantes, corps étoilé, planètes à anneaux et lunes en guise de panneaux, lueur cosmique et une étoile pour œil."
+                 },
+                 {
+                     "folder":  "galaxy-hair-aurora",
+                     "file":  "galaxy-hair-aurora.capri-skin",
+                     "name":  "Galaxy Hair: Aurora",
+                     "kind":  "skin",
+                     "author":  "Issei",
+                     "about":  "Ses cheveux en galaxie : l\u0027espace profond avec des nuages verts et turquoise."
+                 },
+                 {
+                     "folder":  "galaxy-hair-ember",
+                     "file":  "galaxy-hair-ember.capri-skin",
+                     "name":  "Galaxy Hair: Ember",
+                     "kind":  "skin",
+                     "author":  "Issei",
+                     "about":  "Ses cheveux en galaxie : son rouge qui se fond dans le prune et l\u0027espace profond."
+                 },
+                 {
+                     "folder":  "galaxy-hair-nebula",
+                     "file":  "galaxy-hair-nebula.capri-skin",
+                     "name":  "Galaxy Hair: Nebula",
+                     "kind":  "skin",
+                     "author":  "Issei",
+                     "about":  "Ses cheveux en galaxie : l\u0027espace profond avec des nuages violets et roses."
+                 },
+                 {
+                     "folder":  "hair-down",
+                     "file":  "hair-down.capri-skin",
+                     "name":  "Hair Down",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri les cheveux lâchés : une nappe rose vif avec une lueur néon, qui descend dans son dos jusqu\u0027à une pointe, et une fine mèche devant le visage."
+                 },
+                 {
+                     "folder":  "halo",
+                     "file":  "halo.capri-skin",
+                     "name":  "Halo",
+                     "kind":  "skin",
+                     "author":  "Issei",
+                     "about":  "Une auréole blanche et dentelée qui flotte juste au-dessus de sa tête."
+                 },
+                 {
+                     "folder":  "hearing-log",
+                     "file":  "hearing-log.capri-mod",
+                     "name":  "Hearing Log",
+                     "kind":  "settings",
+                     "author":  "Vocyn",
+                     "about":  "Tant qu\u0027il est actif, elle garde sur ton PC la liste de ce qu\u0027elle a entendu et si cela lui était adressé. Pratique quand elle ne répond pas à son nom. Retirer le mod supprime la liste."
+                 },
+                 {
+                     "folder":  "hello-code",
+                     "file":  "hello-code.capri-code",
+                     "name":  "Hello Code",
+                     "kind":  "code",
+                     "author":  "Vocyn",
+                     "about":  "Un tout petit mod de code pour apprendre. Dis « mod check » : elle répond et compte combien de fois tu l\u0027as demandé."
+                 },
+                 {
+                     "folder":  "kintsugi-porcelain",
+                     "file":  "kintsugi-porcelain.capri-skin",
+                     "name":  "Kintsugi Porcelain",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri en porcelaine bleue et blanche réparée à l\u0027or : volutes cobalt sur émail blanc, panneaux céladon, membres en laque noire, visage à la feuille d\u0027or et joints de kintsugi scintillants."
+                 },
+                 {
+                     "folder":  "kitchen-sponge",
+                     "file":  "kitchen-sponge.capri-skin",
+                     "name":  "Kitchen Sponge",
+                     "kind":  "skin",
+                     "author":  "Potato",
+                     "about":  "Une apparence pour Capri : elle est faite d\u0027une éponge de cuisine."
+                 },
+                 {
+                     "folder":  "kyoto-rain",
+                     "file":  "kyoto-rain.capri-skin",
+                     "name":  "Kyoto Rain",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri en nuit de pluie dans une vieille rue japonaise : cheveux de ciel d\u0027orage où tombe la pluie, indigo à motifs de vagues, panneaux en lanternes de papier, membres en pierre mouillée et yeux en feux de circulation."
+                 },
+                 {
+                     "folder":  "lava-lamp",
+                     "file":  "lava-lamp.capri-skin",
+                     "name":  "Lava Lamp",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri en lampe à lave des années 70 : verre violet, bulles de cire lumineuses qui montent et fusionnent en elle, lueur chaude par le bas, panneaux de cire et base en chrome brossé."
+                 },
+                 {
+                     "folder":  "maid-suit",
+                     "file":  "maid-suit.capri-skin",
+                     "name":  "Maid Suit",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Une apparence pour Capri : une tenue de soubrette, pour les curieux."
+                 },
+                 {
+                     "folder":  "nicknames",
+                     "file":  "nicknames.capri-code",
+                     "name":  "Nicknames",
+                     "kind":  "code",
+                     "author":  "Vocyn",
+                     "about":  "Donne de nouveaux noms à Capri en le lui demandant, à l\u0027oral ou à l\u0027écrit. Elle y répond aussitôt et s\u0027en souvient."
+                 },
+                 {
+                     "folder":  "prism-overdrive",
+                     "file":  "prism-overdrive.capri-skin",
+                     "name":  "Prism Overdrive",
+                     "kind":  "skin",
+                     "author":  "Potato",
+                     "about":  "Une apparence pour Capri avec tous les effets, sur chacune de ses images."
+                 },
+                 {
+                     "folder":  "rei-plugsuit",
+                     "file":  "rei-plugsuit.capri-skin",
+                     "name":  "Rei Plugsuit",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri en combinaison blanche inspirée de Rei Ayanami : cheveux bleu pâle, deux pinces blanches, noyau rouge sur la poitrine, pylônes d\u0027épaules orange, membres marine, plaques vertes et yeux rouges."
+                 },
+                 {
+                     "folder":  "santa-hat-black",
+                     "file":  "santa-hat-black.capri-skin",
+                     "name":  "Santa Hat: Black",
+                     "kind":  "skin",
+                     "author":  "Issei",
+                     "about":  "Un bonnet de Noël noir et pointu, dans toutes ses poses."
+                 },
+                 {
+                     "folder":  "santa-hat-crimson",
+                     "file":  "santa-hat-crimson.capri-skin",
+                     "name":  "Santa Hat: Crimson",
+                     "kind":  "skin",
+                     "author":  "Issei",
+                     "about":  "Un bonnet de Noël cramoisi et pointu, dans toutes ses poses."
+                 },
+                 {
+                     "folder":  "sharper-ears",
+                     "file":  "sharper-ears.capri-mod",
+                     "name":  "Sharper Ears",
+                     "kind":  "settings",
+                     "author":  "Vocyn",
+                     "about":  "Elle répond aux mots qui ressemblent à son nom, pas seulement à l\u0027orthographe exacte : Caprice, Capris ou Cah Pree."
+                 },
+                 {
+                     "folder":  "sleep-timer",
+                     "file":  "sleep-timer.capri-code",
+                     "name":  "Sleep Timer",
+                     "kind":  "code",
+                     "author":  "Issei",
+                     "about":  "Met ton PC en veille ou l\u0027éteint plus tard, avec un avertissement avant."
+                 },
+                 {
+                     "folder":  "stained-glass",
+                     "file":  "stained-glass.capri-skin",
+                     "name":  "Stained Glass",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri en vitrail de cathédrale : cheveux de verre saphir et violet, corps rubis et ambre, panneaux émeraude, plomb entre les vitres, visage peint et rayon de soleil qui la traverse."
+                 },
+                 {
+                     "folder":  "startup-intros",
+                     "file":  "startup-intros.capri-code",
+                     "name":  "Startup Intros",
+                     "kind":  "code",
+                     "author":  "Vocyn",
+                     "about":  "Trois animations de démarrage : Hijack, Shatter et Wake. Elle les mélange à chaque lancement, ou tu en choisis une."
+                 },
+                 {
+                     "folder":  "tell-claude",
+                     "file":  "tell-claude.capri-code",
+                     "name":  "Tell Claude",
+                     "kind":  "code",
+                     "author":  "Potato",
+                     "about":  "Dis « tell Claude to ... » : Claude Code fait le travail, puis Capri te donne la réponse."
+                 },
+                 {
+                     "folder":  "touch-grass",
+                     "file":  "touch-grass.capri-code",
+                     "name":  "Touch Grass",
+                     "kind":  "code",
+                     "author":  "Issei",
+                     "about":  "Compte ton temps de jeu et te chambre quand il est temps de faire une pause."
+                 },
+                 {
+                     "folder":  "vaporwave",
+                     "file":  "vaporwave.capri-skin",
+                     "name":  "Vaporwave",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri en vaporwave des années 2010 : cheveux de coucher de soleil avec soleil rétro et palmier, grille néon sur les jambes, marbre pastel, carreaux aqua et effets de cassette VHS."
+                 },
+                 {
+                     "folder":  "voice-trivia",
+                     "file":  "voice-trivia.capri-code",
+                     "name":  "Voice Trivia",
+                     "kind":  "code",
+                     "author":  "Issei",
+                     "about":  "Un quiz à choix multiples à voix haute, avec les scores."
+                 },
+                 {
+                     "folder":  "y2k-chrome",
+                     "file":  "y2k-chrome.capri-skin",
+                     "name":  "Y2K Chrome",
+                     "kind":  "skin",
+                     "author":  "Vocyn",
+                     "about":  "Capri en chrome du tournant du millénaire : cheveux en miroir liquide qui reflètent le ciel, panneaux holographiques arc-en-ciel, membres noirs brillants, visage LCD et étoiles scintillantes."
+                 }
+             ]
 }
